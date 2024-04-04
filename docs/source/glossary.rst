@@ -80,3 +80,15 @@
     ХОУМБРЮ
         **Homebrew** (дословно означает домашнее пиво или любую самоделку)
         Правила, введенные силами самих игроков.
+
+
+	МАТРИЦА
+		(matrix) - The matrix is an interlocking system of computers, called hosts, linked together by grids - the world telecommunications 
+		network. Most computer systems throughout the world are accessible via the matrix, assuming you have authorized passcodes or can hack 
+		the system. A matrix user can theoretically connect to a host on the other side of the planet within seconds. The human mind cannot 
+		directly comprehend the flow of data in the matrix. If users were restricted to old-tech tools, the system would be unmanageable. 
+		Artificial Sensory Induction System Technology (ASIST) however, opened up the possibilities of Direct Neural Interface access to 
+		computers and the matrix was born. Everything in the matrix is graphically represented and if a user is authorized to view a file, 
+		they take a microsecond-long trip through a computer generated landscape to find it right where they expected it to be located.
+		
+		
