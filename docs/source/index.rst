@@ -19,11 +19,11 @@ Contents
 .. toctree::
     meatspace
     matrix
+    magic
     tech
     character_creation
     bestiary
     items
     equipment
-    magic
     optional_rules
     glossary
