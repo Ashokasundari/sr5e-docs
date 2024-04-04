@@ -17,6 +17,7 @@ Contents
 --------
 
 .. toctree::
+    basic_rules
     meatspace
     matrix
     magic
