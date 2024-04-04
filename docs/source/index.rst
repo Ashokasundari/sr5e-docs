@@ -1,17 +1,17 @@
-Welcome to Lumache's documentation!
-===================================
+Добро пожаловать в кривой руллбук кривого Shadowrun-а пятой редакции!
+=====================================================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Shadowrun 5e** (/lu'make/) это какая-то малоизвестная вселенная, от еще менее известных
+издателей, которые упорно пытаются от своей вселенно избавиться.
 
+Read-the-docs tech stuff
+------------------------
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   Проект находится на стадии разработки.
 
 Contents
 --------
