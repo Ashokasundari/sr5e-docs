@@ -35,15 +35,15 @@
 ------------------------------------------------------------------------------------------------------------------------
 
 .. toctree::
+    :maxdepth: 1
+
     basic_rules
-    meatspace
-    matrix
-    magic
-    tech
     character_creation
-    bestiary
-    items
-    equipment
-    optional_rules
+
+.. toctree::
+    :maxdepth: 2
+
     glossary
-    shadowrun_stories
+    optional_rules/optional_rules
+    shadowrun_stories/shadowrun_stories
+    links
