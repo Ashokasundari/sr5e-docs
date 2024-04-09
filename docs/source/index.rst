@@ -35,15 +35,18 @@
 ------------------------------------------------------------------------------------------------------------------------
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
 
     basic_rules
-    character_creation
+    character/index.rst
+    dimensions/index.rst
+    equipment/index.rst
 
 .. toctree::
     :maxdepth: 2
 
     glossary
+    bestiary/bestiary.rst
     optional_rules/optional_rules
     shadowrun_stories/shadowrun_stories
     links
