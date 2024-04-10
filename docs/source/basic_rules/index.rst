@@ -29,4 +29,4 @@
 .. toctree::
     :glob:
 
-    publicity/*
+    fame/*
