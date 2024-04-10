@@ -35,7 +35,7 @@
 ------------------------------------------------------------------------------------------------------------------------
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 3
 
     basic_rules/index.rst
     character/index.rst
@@ -43,7 +43,7 @@
     equipment/index.rst
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 3
 
     glossary
     bestiary/bestiary.rst
