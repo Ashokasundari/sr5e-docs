@@ -37,7 +37,7 @@
 .. toctree::
     :maxdepth: 2
 
-    basic_rules
+    basic_rules/index.rst
     character/index.rst
     dimensions/index.rst
     equipment/index.rst
