@@ -3,7 +3,7 @@
 
 
 .. toctree::
-    :maxdepth: 2
+    :glob:
 
     character_creation/*
     character_concepts/*
