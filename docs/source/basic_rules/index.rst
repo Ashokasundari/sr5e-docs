@@ -28,4 +28,5 @@
 
 .. toctree::
     :glob:
+
     publicity/*
