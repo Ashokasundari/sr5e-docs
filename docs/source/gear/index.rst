@@ -13,7 +13,7 @@
 .. toctre::
     :glob:
 
-    drones_categories/*
+    technological/drones_categories/*
 
 
 Препараты
@@ -21,9 +21,9 @@
 
 
 .. toctre::
-    :glob:
+    :maxdepth: 2
 
-    drugs_categories/*
+    technological/drugs_categories/*
 
 
 Снаряжение
