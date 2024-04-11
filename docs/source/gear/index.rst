@@ -13,7 +13,7 @@
 .. toctre::
     :glob:
 
-    technological/drones_categories/*
+    drones_categories/*
 
 
 Препараты
@@ -23,7 +23,7 @@
 .. toctre::
     :glob:
 
-    technological/drugs_categories/*
+    drugs_categories/*
 
 
 Снаряжение
@@ -33,7 +33,7 @@
 .. toctre::
     :glob:
 
-    technological/equipment_categories/*
+    equipment_categories/*
 
 
 Импланты
@@ -43,7 +43,7 @@
 .. toctre::
     :glob:
 
-    technological/implants_categories/*
+    implants_categories/*
 
 
 Транспортные средства
@@ -53,7 +53,7 @@
 .. toctre::
     :glob:
 
-    technological/vehicles_categories/*
+    vehicles_categories/*
 
 
 ========================================================================================================================
