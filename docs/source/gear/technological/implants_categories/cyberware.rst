@@ -1533,7 +1533,7 @@
 ++++++++++++++++++
 
 .. list-table::
-    :widths: 20, 5, 5, 7, 7
+    :widths: 20, 5, 5, 5, 5, 5, 5
     :align: center
     :header-rows: 1
 
@@ -1606,7 +1606,7 @@
 +++++++++++++++++++++++++
 
 .. list-table::
-    :widths: 20, 5, 5, 7, 7
+    :widths: 20, 7, 5, 7, 5
     :align: center
     :header-rows: 1
 
