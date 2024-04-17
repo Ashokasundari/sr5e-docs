@@ -122,7 +122,7 @@
 """"""""
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
 
     technological/implants_categories/cyberware
 
@@ -131,7 +131,7 @@
 """"""
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
 
     technological/implants_categories/bioware
 
