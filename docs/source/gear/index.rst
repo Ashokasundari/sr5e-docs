@@ -118,6 +118,8 @@
 палат.
 
 
+Кибервэр
+""""""""
 
 .. toctree::
     :maxdepth: 1
@@ -125,6 +127,8 @@
     technological/implants_categories/cyberware
 
 
+Биовэр
+""""""
 
 .. toctree::
     :maxdepth: 1
