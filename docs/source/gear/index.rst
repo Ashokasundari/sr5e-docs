@@ -120,14 +120,14 @@
 
 
 .. toctree::
-    :glob:
+    :maxdepth: 1
 
     technological/implants_categories/cyberware
 
 
 
 .. toctree::
-    :glob:
+    :maxdepth: 1
 
     technological/implants_categories/bioware
 
