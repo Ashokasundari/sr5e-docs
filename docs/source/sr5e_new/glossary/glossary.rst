@@ -12,7 +12,7 @@
     letters/Гг_буква
     letters/Дд_буква
     letters/Ее_буква
-    letters/Её_буква
+    letters/Ёё_буква
     letters/Жж_буква
     letters/Зз_буква
     letters/Ии_буква
