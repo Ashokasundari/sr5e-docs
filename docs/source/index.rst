@@ -50,3 +50,14 @@
     optional_rules/optional_rules
     shadowrun_stories/shadowrun_stories
     links
+
+
+
+
+---------------
+Новая структура
+---------------
+
+.. toctree::
+
+    sr5e_new/index.rst
