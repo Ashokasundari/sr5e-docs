@@ -21,4 +21,5 @@ Shadowrun 5e, русская книга правил.
 
 .. toctree::
 
+    lore/lore
     glossary/glossary.rst
